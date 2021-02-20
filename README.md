@@ -3,7 +3,7 @@ This my first IOS app with a long history just in one day as follows:
 1) I created a Virtual Mashine running MacOS catalina (15.5) on my host PC (windows 10)
 2) I formatted a USB on Virtual MacOS.
 3) From Apple web site, I downloaded MacOS 10.13.6 which is the latest version of MacOS 
-   as being compatible with my old MacBook Air 4,1 - mid 2011)
+   as being compatible with my old MacBook Air 4,1 - mid 2011.
 4) I created a MacOS bootable USB containing MacOS 10.13.6
 5) I plugged the bootable USB into my MacBook Air which runs Windows 7.
 6) I started my MacBook Air keeping pushing the option key.
