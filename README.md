@@ -9,13 +9,13 @@ This my first IOS app with a long history just in one day as follows:
 6) I started my MacBook Air keeping pushing the option key.
 7) I erased windows SSD and created a MacOS SSD using MacOS's disk utility.
 8) I installed MacOS onto the newly created disk.
-9) I downloaded XCODE from Apple web site.
+9) From Apple site, I downloaded XCODE IDE 10.1 which is the highest version working on MacOS 10.3.6 (the latest version of XCODE is 12.0)
 10) I created a SWIFT based application with two pages showing my pictures.
-11) I download sourcetree version 3.2.1 which is the highest I can go with MacOS 10.3.6 (the latest version as of today is 4.1)
+11) I download "sourcetree" version 3.2.1 which is the highest version working on MacOS 10.3.6 (As of today, the latest version is 4.1)
 12) Using Sourcetree I created a local .git, defined SSH public key and pushed my app to GitHub.
-    (P.A: Sourcetree creates master branch as default in contrrary to main branch created by Github as Default since Janunary 2021)
-13) I changed the default branch from main to master in Github using Settings of the repositoty.
+    (P.A: Sourcetree creates "master" branch as default in contrary to the "main" branch created by Github as Default since January 2021)
+13) I changed the default branch from main to master in Github using Settings of my repositoty "Navigate_HT".
 14) Finaly I have written this README.md file in order to recall in the future what I have done.
-15) I plan to develop next versions of this rather simple application in "React Studio IDE" in React Native Language. 
+15) I plan to develop next versions of this simple application using Free "React Studio IDE" in React Native Language. 
 
 Attached are screenshots of my App in XCODE IDE together with running versions on an Apple Mobile Emulator.
