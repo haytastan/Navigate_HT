@@ -16,6 +16,5 @@ This my first IOS app with a long history just in one day as follows:
     (P.A: Sourcetree creates "master" branch as default in contrary to the "main" branch created by Github as Default since January 2021)
 13) I changed the default branch from "main" to "master" in Github using Settings of my repositoty "Navigate_HT".
 14) Finaly I have written this README.md file in order to recall in the future what I have done to complete this challenge.
-15) I plan to develop next versions of this simple application using the free "React Studio IDE" in "React Native" language. 
 
 Attached are screenshots of my App in XCODE IDE together with running versions on an Apple Mobile Emulator.
